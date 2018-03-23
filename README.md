@@ -19,10 +19,10 @@ Contents:
 - [Universal Value Function Approximators](https://github.com/Caselles/paper_notes/blob/master/read_papers/universal_value_function_approximators.md) (5)
 - [Horde: A Scalable Real-time Architecture for Learning Knowledge from Unsupervised Sensorimotor Interaction](https://github.com/Caselles/paper_notes/blob/master/read_papers/horde_a_scalable_real_time.md) (5)
 - [Learning by Playing – Solving Sparse Reward Tasks from Scratch](https://github.com/Caselles/paper_notes/blob/master/read_papers/learning_by_playing_solving_sparse_reward_tasks_from_scratch.md) (3)
+- [Reinforcement Learning with Unsupervised Auxiliary Tasks](https://github.com/Caselles/paper_notes/blob/master/read_papers/reinforcement_learning_with_unsupervised_auxiliary_tasks.md) (4)
 
 ## Papers I want to read
 
-- Reinforcement Learning with Unsupervised Auxiliary Tasks
 - FeUdal Networks for Hierarchical Reinforcement Learning
 - Diversity is All You Need: Learning Skills without a Reward Function
 - Model-Agnostic Meta-Learning for Fast Adaptation of Deep Networks
