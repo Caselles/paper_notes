@@ -1,0 +1,1 @@
+GVF are like UVFA, value functions with goal as parameter. Goal is defined as reward, termination, termination reward and optimal policy. GVF are learned with GQ(lambda) in parallel. Each demon of the Horde has a goal, and can learn off policy and in parallel how to solve it.
