@@ -27,6 +27,7 @@ Contents:
 - Diversity is All You Need: Learning Skills without a Reward Function
 - Model-Agnostic Meta-Learning for Fast Adaptation of Deep Networks
 - Successor Features for Transfer in Reinforcement Learning
+- Learning to Search Better than Your Teacher
 
 
 [1]:https://blog.acolyer.org/about/
