@@ -1,16 +1,16 @@
-Summary : 
+# Summary : 
 
-1) Intro : 
+## 1) Intro : 
 
 What is transfer learning and why it is important : good description. 
 
-2) Background and problem formulation :
+## 2) Background and problem formulation :
 
 Definition of MDP and transfer learning in the scope of this article. 
 
  Let T,T' be two sets of tasks such that T' included in T, and let t be any task. Then there is transfer if, after training on T, the agent always performs as well or better on task t than if only trained on T'.
 
-3) Successor features : 
+## 3) Successor features : 
 
 Decoupled (environnement, reward) parametrization of the reward function : r = phi . w
 
@@ -18,7 +18,7 @@ Hence, we can also have a decoupled parametrization of the Q function, that reli
 
 Note that w encodes everything about the reward and phi (or psi) encodes everything about the environnement. It allows for a simple formalization of MDP where you learn phi or psi for some reward w_i, and then you can use phi or psi on another task w_j, and hopefully you perform better than if you would have not seen w_i. This is why this formulation is useful for transfer in RL.
 
-4) Transfer via successor features
+## 4) Transfer via successor features
 
 The proposed method for transfer learning, and theoretical guarantees that come with it.
 
@@ -26,7 +26,7 @@ Suppose that we have learned the functions Q_i^Pi_i using the representation sch
 
 This strategy comes with guarantees : the learnt policy's Q function is good relatively to the optimal policy's Q function, and the error bound is a multiple of the minimum distance between the new task and other tasks that are used for transfer. It means that in the policies that we learn from, if one is for a task that is close to the task we want to transfer to, then this strategy will perform well. It is quite a neat result because it relates a distance in R^d to a difference of performance in the environnement. So it allows for algorithm design. I will have to look on that.
 
-5) Experiments
+## 5) Experiments
 
 1 simple experiment : lots of details in Appendix B. Think it can be reproduces. They use simple algorithms (Q-Learning) and no neural networks, cool to see such simple interpretable experiments. 
 
@@ -34,7 +34,7 @@ This strategy comes with guarantees : the learnt policy's Q function is good rel
 
 In both experiments they show that SF outperforms the rest.
 
-6) Related work :
+## 6) Related work :
 
 Have to go back on that later. Relation to GVF and UVFA, and transfer learning methods.
 
