@@ -16,12 +16,12 @@ Contents:
 ## Papers I've read
 
 - [Learning to Act by Predicting the Future](https://github.com/Caselles/paper_notes/blob/master/read_papers/learning_to_act_by_predicting_the_future.md) (5)
-- [Universal Value Function Approximators](https://github.com/Caselles/paper_notes/blob/master/read_papers/universal_value_function_approximators.md) (5)
+- [Universal Value Function Approximators](https://github.com/Caselles/paper_notes/blob/master/read_papers/universal_value_function_approximators.md) (4)
 - [Horde: A Scalable Real-time Architecture for Learning Knowledge from Unsupervised Sensorimotor Interaction](https://github.com/Caselles/paper_notes/blob/master/read_papers/horde_a_scalable_real_time.md) (5)
 - [Learning by Playing – Solving Sparse Reward Tasks from Scratch](https://github.com/Caselles/paper_notes/blob/master/read_papers/learning_by_playing_solving_sparse_reward_tasks_from_scratch.md) (3)
 - [Reinforcement Learning with Unsupervised Auxiliary Tasks](https://github.com/Caselles/paper_notes/blob/master/read_papers/reinforcement_learning_with_unsupervised_auxiliary_tasks.md) (4)
 - [Successor Features for Transfer in Reinforcement Learning
-](https://github.com/Caselles/paper_notes/blob/master/read_papers/successor_features_for_transfer_in_reinforcemen_learning.md) (?)
+](https://github.com/Caselles/paper_notes/blob/master/read_papers/successor_features_for_transfer_in_reinforcemen_learning.md) (4)
 
 ## Papers I want to read
 
