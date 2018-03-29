@@ -38,7 +38,9 @@ In both experiments they show that SF outperforms the rest.
 
 Have to go back on that later. Relation to GVF and UVFA, and transfer learning methods.
 
-Final words : Interesting, not impossible to implement, theoretically sound. I like this work and it would be interesting to incorporate new elements in it. It indeed seems like a good framework for transfer in RL, since it incorporates to RL easily both practically and theoretically. 
+## Final words :
+
+Interesting, not impossible to implement, theoretically sound. I like this work and it would be interesting to incorporate new elements in it. It indeed seems like a good framework for transfer in RL, since it incorporates to RL easily both practically and theoretically. 
 
 ----------------------------
 
