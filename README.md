@@ -22,7 +22,7 @@ Contents:
 - [Reinforcement Learning with Unsupervised Auxiliary Tasks](https://github.com/Caselles/paper_notes/blob/master/read_papers/reinforcement_learning_with_unsupervised_auxiliary_tasks.md) (4)
 - [Successor Features for Transfer in Reinforcement Learning
 ](https://github.com/Caselles/paper_notes/blob/master/read_papers/successor_features_for_transfer_in_reinforcemen_learning.md) (4)
-- [Hindsight Experience Replay](https://github.com/Caselles/paper_notes/blob/master/read_papers/hindsight_experience_replay.md)(?)
+- [Hindsight Experience Replay](https://github.com/Caselles/paper_notes/blob/master/read_papers/hindsight_experience_replay.md) (?)
 
 ## Papers I want to read
 
