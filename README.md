@@ -34,6 +34,7 @@ Contents:
 - Trust Region Policy Optimization
 - Proximal Policy Optimization
 - Curriculum Learning
+- Simple random search provides a competitive approach to reinforcement learning
 
 
 [1]:https://blog.acolyer.org/about/
