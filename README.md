@@ -30,7 +30,6 @@ Contents:
 
 - FeUdal Networks for Hierarchical Reinforcement Learning
 - Diversity is All You Need: Learning Skills without a Reward Function
-- Model-Agnostic Meta-Learning for Fast Adaptation of Deep Networks
 - Learning to Search Better than Your Teacher
 - Transfer in Variable-Reward Hierarchical Reinforcement Learning
 - Trust Region Policy Optimization
