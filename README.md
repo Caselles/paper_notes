@@ -23,7 +23,8 @@ Contents:
 - [Successor Features for Transfer in Reinforcement Learning
 ](https://github.com/Caselles/paper_notes/blob/master/read_papers/successor_features_for_transfer_in_reinforcemen_learning.md) (4)
 - [Hindsight Experience Replay](https://github.com/Caselles/paper_notes/blob/master/read_papers/hindsight_experience_replay.md) (4)
-- [Model-Agnostic Meta-Learning for Fast Adaptation of Deep Networks](https://github.com/Caselles/paper_notes/blob/master/read_papers/model_agnostic_meta_learning_for_fast_adaptation_of_deep_networks.md) (?)
+- [Model-Agnostic Meta-Learning for Fast Adaptation of Deep Networks](https://github.com/Caselles/paper_notes/blob/master/read_papers/model_agnostic_meta_learning_for_fast_adaptation_of_deep_networks.md) (4)
+- [Meta-Learning and Universality: Deep Representations and Gradient Descent can Approximate any Learning Algorithm](https://github.com/Caselles/paper_notes/blob/master/read_papers/meta_learning_and_universality_deep_representations_and_gradient_descent_can_approximate_any_learning_algorithm.md) (?)
 
 ## Papers I want to read
 
