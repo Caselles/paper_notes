@@ -35,6 +35,7 @@ Contents:
 - Proximal Policy Optimization
 - Curriculum Learning
 - Simple random search provides a competitive approach to reinforcement learning
+- Transfer in RL : a survey
 
 
 [1]:https://blog.acolyer.org/about/
