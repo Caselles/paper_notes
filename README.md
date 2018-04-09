@@ -37,6 +37,7 @@ Contents:
 - Curriculum Learning
 - Simple random search provides a competitive approach to reinforcement learning
 - Transfer in RL : a survey
+- A Distributional Perspective on Reinforcement Learning
 
 
 [1]:https://blog.acolyer.org/about/
