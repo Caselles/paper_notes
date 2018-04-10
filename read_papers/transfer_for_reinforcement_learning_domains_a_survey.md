@@ -51,6 +51,16 @@ Can a TL guarantee that a source task is useful ? Open question. Some neat resul
 
 Type of transferred knowledge ? Low (transitions) vs high (options) level knowledge.
 
+## 3.3/ Multi-task learning
+
+Multi-task learning is included in TL ! Tasks are sampled from the same distribution. 
+
+Often considered sequentially. Some bonus with this restriction is that it can be be used in a more rigourous theoretical framework, such that, in the end, SF for TL. In fact, according to this survey SF for TL should be called SF for MTL.
+
+## 3.4/ Inter-task mappings
+
+
+
 
 
 
