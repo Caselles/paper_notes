@@ -31,6 +31,26 @@ No comparison of TL algorithms between them in the literature.
 
 ## 2.2/ Dimensions of comparison
 
+5 dimensions : Task difference assumption, Source task selection, Task mappings, Transferred knowledge, Allowed learners.
+
+# 3/ Transfer for RL
+
+## 3.1/ RL Background
+
+RL framework definition.
+
+Algorithms for MDPs: Temporal difference, Policy search, Dynamic Programming, Model-based, Relational RL, Batch learning methods.
+
+In 2009 DQN things were already done. Just not with CNNs.
+
+## 3.2/ Transfer approaches
+
+What can change and be considered as transfer ? Basically everything. Infinite number of scenarios.
+
+Can a TL guarantee that a source task is useful ? Open question. Some neat results in Successor features for TL.
+
+Type of transferred knowledge ? Low (transitions) vs high (options) level knowledge.
+
 
 
 
