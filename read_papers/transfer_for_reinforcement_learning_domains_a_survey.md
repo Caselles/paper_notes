@@ -17,6 +17,25 @@ Full autonomous agent : 3 sub-problems. In reality people try to solve one of th
 
 Total time vs target time ? Source task learning time should not be a sunk cost.
 
+## 2.1/ Empirical transfer evaluation
+
+Possible benefits of TL : Jump start, Asymptotic performance, Total reward, Transfer ratio, Time to threshold. Why not performance profile ? No unique metric, each is important.
+
+Learning time = Sample complexity
+
+Insights on problem with each metric.
+
+Proposed metric : Ratio = (AUC with TL - AUC without TL)/(AUC without TL) >> Better, but still not scale invariant.
+
+No comparison of TL algorithms between them in the literature.
+
+## 2.2/ Dimensions of comparison
+
+
+
+
+
+
 
 ---------------
 
