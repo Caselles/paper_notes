@@ -25,7 +25,8 @@ Contents:
 - [Hindsight Experience Replay](https://github.com/Caselles/paper_notes/blob/master/read_papers/hindsight_experience_replay.md) (4)
 - [Model-Agnostic Meta-Learning for Fast Adaptation of Deep Networks](https://github.com/Caselles/paper_notes/blob/master/read_papers/model_agnostic_meta_learning_for_fast_adaptation_of_deep_networks.md) (4)
 - [Meta-Learning and Universality: Deep Representations and Gradient Descent can Approximate any Learning Algorithm](https://github.com/Caselles/paper_notes/blob/master/read_papers/meta_learning_and_universality_deep_representations_and_gradient_descent_can_approximate_any_learning_algorithm.md) (2)
-
+- [A Distributional Perspective on Reinforcement Learning](https://github.com/Caselles/paper_notes/blob/master/read_papers/a_distributional_perspective_on_reinforcement_learning.md) (?)
+- [Transfer for Reinforcement Learning Domains: A Survey](https://github.com/Caselles/paper_notes/blob/master/read_papers/transfer_for_reinforcement_learning_domains_a_survey.md) (?)
 ## Papers I want to read
 
 - FeUdal Networks for Hierarchical Reinforcement Learning
@@ -37,7 +38,6 @@ Contents:
 - Curriculum Learning
 - Simple random search provides a competitive approach to reinforcement learning
 - Transfer in RL : a survey
-- A Distributional Perspective on Reinforcement Learning
 
 
 [1]:https://blog.acolyer.org/about/
