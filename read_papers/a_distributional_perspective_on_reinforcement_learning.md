@@ -1,11 +1,5 @@
 Summary : 
 
-
-
----------------
-
-Final thoughts : 
-
 The core idea is to remove the expectations from the Bellman equation. And then do the same thing that is done in RL with expectation.
 
 They provide a policy evaluation setting : For the Bellman Equation, we have the infinity norm that allows contraction in order to approximate the expectation of the Q function. Here, we need another norm. KL and total variation does not work. They use the maximal Wasserstein metric to obtain contraction. 
@@ -23,11 +17,12 @@ C51 surprisingly works very well (performance and speed), they don't know why. Y
 
 Why having results with the maximal W norm and then not being able to use it in the algo ? Disappointing. 
 
+
 ---------------
 
 Final thoughts : 
 
-Seems hard to implement. Seems like WIP. Have to keep an eye on research in Distributional RL, new results might come. Have to check Cramer distance solution to biased Wasserstein gradients.
+Seems hard to implement. Seems like WIP. Have to keep an eye on research in Distributional RL, new results might come. Have to check Cramer distance solution to biased Wasserstein gradients (still does not work but tries to solve the problem of max W metric).
 
 ---------------
 
