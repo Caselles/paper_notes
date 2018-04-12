@@ -93,7 +93,36 @@ Ravindran and Barto (03): Learn relativized options in a small source task. When
 
 Mahedevan and Maggioni (07): Proto-value functions. specify a set of basis functions, without regard to R, which can be used to learn an action-value function. Then PVF can be used in other tasks. Seems like SRL or SF for TL. 
 
-Sherstov and Stone (05): Rather than reasoning over the proba of reaching a given state after an action, the learner reasons over the actions' effect, or outcome. States
+Sherstov and Stone (05): Rather than reasoning over the proba of reaching a given state after an action, the learner reasons over the actions' effect, or outcome. States are grouped together in classes such that the proba of a given outcome from a given action will be the same for any state in a class. It allows to reduce the action space, and they have theoritical results. See paper ! Follow-up paper by Leffler (07) where they apply the framework to learn a single task faster, both on simulation and real world. An interesting idea here is to attempt to automatically generate the source tasks (with DFP maybe?). How to best generate the source task is an open problem.
+
+Madden and Howley (04): Progressive RL is a method for transferring between a progression of tasks of increasing difficulty, but is limited to discrete MDPs. Allows for Incremental Learning in discrete MDPs, if a new state in encountered it initialize the Q-value of that state so that the action suggested by the learned rule is preferred.
+
+Lazaric (08): Instances (<s,a,s',r>) from the source tasks that are the most similar to target task, judged by their distance and alignment with target task data, are transferred. Thus, similar regions in the source task are transferred. It might be different regions from different tasks, thus the relevance of the method. It uses batch learning. 
+
+Idea they provide: combine everything together ? meh. Give exact ideas though. See that if no inspiration.
+
+# 5/ Multi-task Learning methods
+
+Mehta (08): Variable-reward hierarchical reinforcement learning assumes the learner will train on a sequence of tasks which are identical except for different reward weights. Reward weights encode for the task via a linear combination of reward features, similarly to SF for TL. When a novel task is presented, the agent sets the initial policy to that of the most similar source task, as determined by the dot product with previously observed reward weight vectors. 
+
+Perkins and Precup (99): T might change after reaching the goal. The agent is provided with a set of hand-coded options which assist in learning on this set of task created by modifications of T. Over time, the agent learns an action-value function over these options. 
+
+Foster and Dayan (04): aim to identify sub-tasks in the source task and use this information in the target task, similarly to Singh (92). Tasks are allowed to differ in the placement of goal states. Learns sub-tasks with EM algo. 
+
+Fernandez and Veloso (06): Probabilistic policy reuse. Consider a distribution of tasks where only the goal state differs, if a new policy is significantly different from existing policies, it is added to the policy library. When the agent is placed in a novel task, on every timestep, it can choose to: exploit a learned source task policy, exploit the current best policy for the target task or randomly explore. It probabilistically selects between policies so that over time more useful policies will be selected more often. The idea of having a sorted by quality and usefulness policy library is indeed interesting. You could learn the optimal library to perform well across a set of tasks.
+
+Tanaka and Yamamura (03): Gather statistics about all previous tasks and use it to learn novel tasks faster. Set action-value function to average value in every task. In a new task, initalize Q-function to this average value. Then prioritize TD udpates to state-action pairs that are far away to the average, because they are likely to be incorrect (if the target task is related to the source tasks, I guess).  Also use the variance of the Q-values, if they are big it's likely that you need to update this particular state-action because it is likely not estimated correctly.
+
+Sunmola et Wyatt (06): Bayesian RL, have to check because I don't know what is it.
+
+Walsh (06): They observe that "deciding what knowledge to transfer between environments can be boiled down to determining the correct state abstraction scheme for a set of source tasks and then applying this compaction to a target task", which is the idea of SRL and learning about the sensorimotor stream. Solve a set of MDPs, build abstractions from the solutions, extract relevant features, then apply the feature-based abstraction to a novel target task. They give theoritical guarantees that when the number of source tasks is large (relative to the difference between tasks) their type of abstraction are guaranteed to provide the optimal policy in a target task using Q-learning.
+
+Lazaric (08): Learns a set of tasks with different reward functions using batch learning method Fitted Q-learning.
+
+# 6/ Transferring task-invariant knowledge between tasks with differing state variables and actions
+
+
+
 
 
 
