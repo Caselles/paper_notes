@@ -59,6 +59,46 @@ Often considered sequentially. Some bonus with this restriction is that it can b
 
 ## 3.4/ Inter-task mappings
 
+If source and target tasks do not have same state space and action space, we need inter-task mappings. 
+
+Either told how the tasks are related, or learns it. Have to define what "similar" actions or states are. For that, Q value, transition, or reward can be used. 
+
+## 3.5/ Related paradigms
+
+Life-long learning (I'm interested in that): TL included in LLL. TL is single pair of tasks, and TL is told when the new task has begun. In LLL you can have lots of tasks and agents may have to automatically identify new sub-tasks in the global MDP (i.e. the real world).
+
+Imitation learning: agents learn by watching another agent abilities. Related to TL but different: TL wants to re-use past learned knowledge.
+
+Human advice: Humans in the loop, that can help give feedback to the agent. Not automous but can achieve complex learned behaviours.
+
+Reward shaping: Humans modify task to allow better learning.
+
+Representation transfer: Transferring knowledge between agents with different internal representation (ie algos) of the same task.
+
+# 4/ Transfer methods for fixed state variables and actions (survey begins)
+
+Selfridge (85): Changing the task transition function T over time, from easy to hard. Lead to quicker training.
+
+Asada (94): Learning from easy missions, humans constructing a set of tasks for the learner. Move the initial state further away each time to the goal. It incrementally learns how to navigate faster than when he has a lot of exploration to do. Relies on human but have this incremental flavor.
+
+Singh (92): Breaking a task into smaller sub-tasks. Detecting sub-tasks can be done automaticaaly if there are patterns in any signal that can identifiy sub-tasks. For instance, in a 2D navigation task each room may be a sub-task and the steep value function gradient between impassable walls is easily identifiable.
+
+Atkeson and Santamaria (97): Transfers a locally weighted regression model of T, learned in the source task, by directly applying it to the target task. Allows for planning, and show improvement in terms of jump start, total reward and asympotitic performance.
+
+Asadi and Huber (07): Transfers partial policies or options. Hierarchical Bounded Parameter SMDP. Automatically identifies sub-goals in the source task and then learn options to reach these sub-goals. 
+
+Andre and Russell (02): Transfers options between tasks. This work highlights the connection between state abstraction and transfer, if similarities exists between parts of the state space in the two tasks, good local controllers ore local policies or options can be directly transferred. 
+
+Ravindran and Barto (03): Learn relativized options in a small source task. When learning in the target task, the agent is provided these options and a set of possible trasnformation of the options that can be relevant in the target task. If source is a small maze, then target can be a similar looking bigger maze, and transformations can be rotation, reflection, etc.
+
+Mahedevan and Maggioni (07): Proto-value functions. specify a set of basis functions, without regard to R, which can be used to learn an action-value function. Then PVF can be used in other tasks. Seems like SRL or SF for TL. 
+
+Sherstov and Stone (05): Rather than reasoning over the proba of reaching a given state after an action, the learner reasons over the actions' effect, or outcome. States
+
+
+
+
+
 
 
 
