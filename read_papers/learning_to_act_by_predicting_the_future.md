@@ -17,5 +17,7 @@ OpenReview : https://openreview.net/forum?id=rJLS7qKel
 
 Simple Keras code for VizDoom, seem to work, plus blog article with summary and hindsights: https://flyyufelix.github.io/2017/11/17/direct-future-prediction.html
 
+The Reimplementation and Application of Direct Future Prediction to Simple Environments and Online Learning (sweeet) : https://www.ocf.berkeley.edu/~jjbaek/dfp_paper.pdf
+
 
 **N.B : the second section of the paper ("Background") gives an interesting overview of sensorimotor prediction, as well as an overview on SL vs RL for learning how to act by interacting with an environment.** 
