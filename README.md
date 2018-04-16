@@ -28,6 +28,7 @@ Contents:
 - [A Distributional Perspective on Reinforcement Learning](https://github.com/Caselles/paper_notes/blob/master/read_papers/a_distributional_perspective_on_reinforcement_learning.md) (4)
 - [Transfer for Reinforcement Learning Domains: A Survey](https://github.com/Caselles/paper_notes/blob/master/read_papers/transfer_for_reinforcement_learning_domains_a_survey.md) (?)
 - [World Models](https://github.com/Caselles/paper_notes/blob/master/read_papers/world_models.md) (4)
+- [Simple random search provides a competitive approach to reinforcement learning](https://github.com/Caselles/paper_notes/blob/master/read_papers/simple_random_search_provides_a_competitive_approach%20to_reinforcement_learning.md) (?)
 
 
 ## Papers I want to read
@@ -39,7 +40,6 @@ Contents:
 - Trust Region Policy Optimization
 - Proximal Policy Optimization
 - Curriculum Learning
-- Simple random search provides a competitive approach to reinforcement learning
 - Theoretical TL papers from TL survey
 - DRL that matters
 
