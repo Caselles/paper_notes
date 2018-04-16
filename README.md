@@ -27,6 +27,7 @@ Contents:
 - [Meta-Learning and Universality: Deep Representations and Gradient Descent can Approximate any Learning Algorithm](https://github.com/Caselles/paper_notes/blob/master/read_papers/meta_learning_and_universality_deep_representations_and_gradient_descent_can_approximate_any_learning_algorithm.md) (2)
 - [A Distributional Perspective on Reinforcement Learning](https://github.com/Caselles/paper_notes/blob/master/read_papers/a_distributional_perspective_on_reinforcement_learning.md) (4)
 - [Transfer for Reinforcement Learning Domains: A Survey](https://github.com/Caselles/paper_notes/blob/master/read_papers/transfer_for_reinforcement_learning_domains_a_survey.md) (?)
+- [World Models](https://github.com/Caselles/paper_notes/blob/master/read_papers/world_models.md) (4)
 
 
 ## Papers I want to read
@@ -39,7 +40,6 @@ Contents:
 - Proximal Policy Optimization
 - Curriculum Learning
 - Simple random search provides a competitive approach to reinforcement learning
-- World models
 - Theoretical TL papers from TL survey
 
 
