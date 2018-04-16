@@ -41,6 +41,7 @@ Contents:
 - Curriculum Learning
 - Simple random search provides a competitive approach to reinforcement learning
 - Theoretical TL papers from TL survey
+- DRL that matters
 
 
 [1]:https://blog.acolyer.org/about/
