@@ -1,4 +1,4 @@
-Summary :
+Summary : https://drive.google.com/file/d/1bTJVxJDN5b6FqyZ2fyvtZmUzvR1Rs5f3/view?usp=sharing
 
 Instead of using all the bs DRL algorithms, they propose to use simple random search over the policy parameters, and they add 3 simple tricks to beat SOTA (in terms of sample complexity and performance) on practicly all MuJoCo tasks. 
 
