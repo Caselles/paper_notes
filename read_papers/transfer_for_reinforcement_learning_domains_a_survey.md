@@ -121,18 +121,49 @@ Lazaric (08): Learns a set of tasks with different reward functions using batch 
 
 # 6/ Transferring task-invariant knowledge between tasks with differing state variables and actions
 
+# 7/ Explicit mappings to transfer between different actions and state representations
 
+# 8/ Learning task mappings
 
+# 9/ Open questions
 
+Go model-based for TL.
 
+Look for Bayesian RL.
 
+Train on a sequence of automatically generated source tasks.
 
+Minor changes in R can lead to major changes in Q. How to solve that ? It breaks TL.
 
+Decoupling benefits of TL to better understand it : better exploration and better internal state representation.
 
+Meta-RL : learn the right learner.
 
+Study the agent behaviour : agent space.
 
+Negative transfer : decreased performance after having learned source task.
 
+Get the similarity between two task can improve transfer strategies and better model the interactions between tasks.
 
+How to construct a source task given a target task ? 
+
+Theory in TL : 
+
+- Guarantees about source task in helping target task.
+- Correlate the amount of knowledge transferred (number of samples) with the improvement.
+- Define what an optimla inter-task mapping is and demonstrate how transfer efficacy is impacted with the mapping.
+
+Concept drift : MDP changes slowly and arbitrarily.
+
+Determine the optimal amount of source task training to monimize the target task training time or total training time.
+
+Account for scale difference between tasks.
+
+Explore more in source in order to perform in target.
+
+POMDPs, MMDPs, DEC-MDPs
+
+No standard benchmark.
 
 
 
@@ -141,3 +172,5 @@ Lazaric (08): Learns a set of tasks with different reward functions using batch 
 Final thoughts : 
 
 The survey is very well written and very relevant to my work.
+
+**To remember : Lazaric, Bayesian RL, no unique metric for TL so evaluate with number of metrics, clarify the setting of TL (we saw there are millions), go model-based, DQN nothing new, MTL included in TL, many good ideeas for each scenario of TL, SF for TL is nice because it has theory, no standard benchamarks.**
