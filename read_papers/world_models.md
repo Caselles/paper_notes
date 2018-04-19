@@ -52,3 +52,5 @@ See related work for model-based RL papers.
 "Blog post" paper: https://worldmodels.github.io/
 
 Other summary: https://github.com/abhshkdz/papers/blob/master/reviews/world-models.md
+
+Code : https://medium.com/applied-data-science/how-to-build-your-own-world-model-using-python-and-keras-64fb388ba459
