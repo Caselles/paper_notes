@@ -42,6 +42,7 @@ Contents:
 - Curriculum Learning
 - Theoretical TL papers from TL survey
 - DRL that matters
+- CMA-ES
 
 
 [1]:https://blog.acolyer.org/about/
