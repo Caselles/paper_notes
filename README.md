@@ -29,6 +29,7 @@ Contents:
 - [Transfer for Reinforcement Learning Domains: A Survey](https://github.com/Caselles/paper_notes/blob/master/read_papers/transfer_for_reinforcement_learning_domains_a_survey.md) (?)
 - [World Models](https://github.com/Caselles/paper_notes/blob/master/read_papers/world_models.md) (4)
 - [Simple random search provides a competitive approach to reinforcement learning](https://github.com/Caselles/paper_notes/blob/master/read_papers/simple_random_search_provides_a_competitive_approach%20to_reinforcement_learning.md) (5)
+- [Levine's lecture on "what do to when you have a forward model ?"](https://github.com/Caselles/paper_notes/blob/master/read_papers/levine_lecture_what_to_do_when_you_have_a_forward_model.md) (?)
 
 
 ## Papers I want to read
