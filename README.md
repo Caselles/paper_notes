@@ -26,10 +26,10 @@ Contents:
 - [Model-Agnostic Meta-Learning for Fast Adaptation of Deep Networks](https://github.com/Caselles/paper_notes/blob/master/read_papers/model_agnostic_meta_learning_for_fast_adaptation_of_deep_networks.md) (4)
 - [Meta-Learning and Universality: Deep Representations and Gradient Descent can Approximate any Learning Algorithm](https://github.com/Caselles/paper_notes/blob/master/read_papers/meta_learning_and_universality_deep_representations_and_gradient_descent_can_approximate_any_learning_algorithm.md) (2)
 - [A Distributional Perspective on Reinforcement Learning](https://github.com/Caselles/paper_notes/blob/master/read_papers/a_distributional_perspective_on_reinforcement_learning.md) (4)
-- [Transfer for Reinforcement Learning Domains: A Survey](https://github.com/Caselles/paper_notes/blob/master/read_papers/transfer_for_reinforcement_learning_domains_a_survey.md) (?)
+- [Transfer for Reinforcement Learning Domains: A Survey](https://github.com/Caselles/paper_notes/blob/master/read_papers/transfer_for_reinforcement_learning_domains_a_survey.md) (3)
 - [World Models](https://github.com/Caselles/paper_notes/blob/master/read_papers/world_models.md) (4)
 - [Simple random search provides a competitive approach to reinforcement learning](https://github.com/Caselles/paper_notes/blob/master/read_papers/simple_random_search_provides_a_competitive_approach%20to_reinforcement_learning.md) (5)
-- [Levine's lecture on "what do to when you have a forward model ?"](https://github.com/Caselles/paper_notes/blob/master/read_papers/levine_lecture_what_to_do_when_you_have_a_forward_model.md) (?)
+- [Levine's lecture on "what do to when you have a forward model ?"](https://github.com/Caselles/paper_notes/blob/master/read_papers/levine_lecture_what_to_do_when_you_have_a_forward_model.md) (5)
 - [Trust Region Policy Optimization](https://github.com/Caselles/paper_notes/blob/master/read_papers/trust_region_policy_optimization.md) (4)
 - [Proximal Policy Optimization](https://github.com/Caselles/paper_notes/blob/master/read_papers/proximal_policy_optimization.md) (4)
 
