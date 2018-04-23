@@ -10,10 +10,13 @@ Model :
 - Local linear model for z_t+1 : Learn mean m and variance sig of Gaussian Q(Z_t+1|Z_t,u), and z_t+1 = N(A.m+B.u+o,C).
 - Generative model z_t -> x_t,x_t+1 : Learn a mean of a Bernoulli for generative model (did not understand).
 
+You need to know the cost ............ Then you estimate the dynamics and plan. 
 
 ---------
 
 Final thoughts: 
+
+The proposed approach extends Stochastic Optimal Control for RGB images. Basically their approach is a way of estimating the model for a classic model-based approach in which you know R and estimate T and then plan, for a (A,S,T,R) MDP. While the approach is clever, with the locally linear dynamics, it still requires to know the cost. 
 
 -------------
 
