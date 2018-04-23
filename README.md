@@ -30,6 +30,8 @@ Contents:
 - [World Models](https://github.com/Caselles/paper_notes/blob/master/read_papers/world_models.md) (4)
 - [Simple random search provides a competitive approach to reinforcement learning](https://github.com/Caselles/paper_notes/blob/master/read_papers/simple_random_search_provides_a_competitive_approach%20to_reinforcement_learning.md) (5)
 - [Levine's lecture on "what do to when you have a forward model ?"](https://github.com/Caselles/paper_notes/blob/master/read_papers/levine_lecture_what_to_do_when_you_have_a_forward_model.md) (?)
+- [Trust Region Policy Optimization](https://github.com/Caselles/paper_notes/blob/master/read_papers/trust_region_policy_optimization.md) (4)
+- [Proximal Policy Optimization](https://github.com/Caselles/paper_notes/blob/master/read_papers/proximal_policy_optimization.md) (4)
 
 
 ## Papers I want to read
@@ -38,8 +40,6 @@ Contents:
 - Diversity is All You Need: Learning Skills without a Reward Function
 - Learning to Search Better than Your Teacher
 - Transfer in Variable-Reward Hierarchical Reinforcement Learning
-- Trust Region Policy Optimization
-- Proximal Policy Optimization
 - Curriculum Learning
 - Theoretical TL papers from TL survey
 - DRL that matters
