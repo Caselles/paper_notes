@@ -32,6 +32,7 @@ Contents:
 - [Levine's lecture on "what do to when you have a forward model ?"](https://github.com/Caselles/paper_notes/blob/master/read_papers/levine_lecture_what_to_do_when_you_have_a_forward_model.md) (5)
 - [Trust Region Policy Optimization](https://github.com/Caselles/paper_notes/blob/master/read_papers/trust_region_policy_optimization.md) (4)
 - [Proximal Policy Optimization](https://github.com/Caselles/paper_notes/blob/master/read_papers/proximal_policy_optimization.md) (4)
+- [Embed to Control: A Locally Linear Latent Dynamics Model for Control from Raw Images](https://github.com/Caselles/paper_notes/blob/master/read_papers/embed_to_control.md) (?)
 
 
 ## Papers I want to read
