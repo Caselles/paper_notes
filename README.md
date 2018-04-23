@@ -33,7 +33,7 @@ Contents:
 - [Trust Region Policy Optimization](https://github.com/Caselles/paper_notes/blob/master/read_papers/trust_region_policy_optimization.md) (4)
 - [Proximal Policy Optimization](https://github.com/Caselles/paper_notes/blob/master/read_papers/proximal_policy_optimization.md) (4)
 - [Embed to Control: A Locally Linear Latent Dynamics Model for Control from Raw Images](https://github.com/Caselles/paper_notes/blob/master/read_papers/embed_to_control.md) (3)
-- [Imagination-Augmented Agents for Deep Reinforcement Learning]() (?)
+- [Imagination-Augmented Agents for Deep Reinforcement Learning](https://github.com/Caselles/paper_notes/blob/master/read_papers/imagination_augmented_agents_for_deep_reinforcement_learning.md) (3)
 
 
 ## Papers I want to read
