@@ -21,8 +21,24 @@ UOMs with Linear Function Approximation (things get shadier):
 - Then they define the linear UOM, which is a pair of matrices (U_o, M_o). 
 - U_o solve for a system of linear Bellman equations. It is backward compatible to the definition of UOMs in the tabular case. 
 - Theorem 2: For a specific reward, its TD(0) error is the least squares approximation f w.r.t R, dot product with (U_o.phi). It means that if you know U, you just have to do a least squares approximation, much simpler than a TD fixed-point equation.
-- M_o 
+- M_o: M_o.phi, given phi feature vector, predicts the discounted expected feature vector where the option stops.
+- Goal: find an option model that can be used to compute a TD approximation to the value function of a high-level policy h (flattened)
+- Theorem 3 solves that: theta solution to Equation (5) yields a V_theta which is the TD(0) approximation to the value function of h.
+- Key idea is to learn U and M, and then they can be used for different reward functions for different situations at different times.
 
+
+Learning and planning with linear UOMs:
+
+- TD-style algorithms for learning U_o and M_o for each o in O. You need phi.
+- Theorem 4 proves that the algorithms gives guarantees for the algorithms that estimate U and M. Nice. (Where are the proofs though)
+
+Learning reward models:
+
+- Learn f_o via least mean squares rule, for each option o in O. 
+
+Final learning: 
+
+- You have phi. Follow o until it terminates. Estimate R_o with f_o and U_o. Use Theorem 3 to compute the TD(0) approximation to the value function of the high-level policy h. Interleave updates of the reward model learning with the planning.
 
 
 
@@ -30,6 +46,7 @@ UOMs with Linear Function Approximation (things get shadier):
 
 Final thoughts : 
 
+Article is incredibly hard to understand for me (took me 2 days). Plus, I did not fully understand it. Yet, it seems compelling since it has a middle ground between model-free and model-based flavour : it is reward independent. Questions remain unanswered : Why linear ? Isn't there a way to plus DL into this ? What is a forward model for options ? Can't we use UVFA ideas to generalize not only over options but options and goals ? Are there Successor Representations for options ? Can you plan over options ? DFP on options ? I need to know more about options. 
 
 ---------
 
