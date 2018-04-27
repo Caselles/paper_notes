@@ -10,6 +10,7 @@ Contents:
 - [Machine Learning for Robotics](#machine-learning-for-robotics)
     - [Papers I have read](#papers-i-have-read)
     - [Papers I want to read](#papers-i-want-to-read)
+- [Questions for which I need the answer](#questions-for-which-i-need-the-answer)
 
 # Machine Learning for Robotics
 
@@ -50,6 +51,10 @@ Contents:
 - DRL that matters
 - CMA-ES
 - Action-Conditional Video Prediction using Deep Networks in Atari Games
+
+# Questions for which I need the answer
+
+[I need the answers to these questions.](https://github.com/Caselles/paper_notes/blob/master/read_papers/questions_unanswered.md) Any help is welcome ! Reach me at casellesdupre.hugo@gmail.com
 
 [1]:https://blog.acolyer.org/about/
 [2]:https://github.com/dennybritz/deeplearning-papernotes
