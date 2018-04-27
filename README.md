@@ -36,6 +36,7 @@ Contents:
 - [Imagination-Augmented Agents for Deep Reinforcement Learning](https://github.com/Caselles/paper_notes/blob/master/read_papers/imagination_augmented_agents_for_deep_reinforcement_learning.md) (3)
 - [Deep Successor Reinforcement Learning](https://github.com/Caselles/paper_notes/blob/master/read_papers/deep_successor_reinforcement_learning.md) (4)
 - [Learning to Navigate in Complex Environments](https://github.com/Caselles/paper_notes/blob/master/read_papers/learning_to_navigate_in_complex_environments.md) (4)
+- [Universal Option Models]() (?)
 
 
 ## Papers I want to read
@@ -49,7 +50,6 @@ Contents:
 - DRL that matters
 - CMA-ES
 - Action-Conditional Video Prediction using Deep Networks in Atari Games
-- Universal Option Models
 
 [1]:https://blog.acolyer.org/about/
 [2]:https://github.com/dennybritz/deeplearning-papernotes
