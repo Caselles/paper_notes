@@ -39,6 +39,7 @@ Contents:
 - [Learning to Navigate in Complex Environments](https://github.com/Caselles/paper_notes/blob/master/read_papers/learning_to_navigate_in_complex_environments.md) (4)
 - [Universal Option Models](https://github.com/Caselles/paper_notes/blob/master/read_papers/universal_options_model.md) (3)
 - [Options: Temporal abstraction in Reinforcement Learning](https://github.com/Caselles/paper_notes/blob/master/read_papers/options_precup.md) (4)
+- [A Laplacian Framework for Option Discovery in Reinforcement Learning](https://github.com/Caselles/paper_notes/blob/master/read_papers/a_laplacian_framework_for_option_discovery_in_reinforcement_learning.md) (3) 
 
 
 ## Papers I want to read
