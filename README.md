@@ -37,7 +37,8 @@ Contents:
 - [Imagination-Augmented Agents for Deep Reinforcement Learning](https://github.com/Caselles/paper_notes/blob/master/read_papers/imagination_augmented_agents_for_deep_reinforcement_learning.md) (3)
 - [Deep Successor Reinforcement Learning](https://github.com/Caselles/paper_notes/blob/master/read_papers/deep_successor_reinforcement_learning.md) (4)
 - [Learning to Navigate in Complex Environments](https://github.com/Caselles/paper_notes/blob/master/read_papers/learning_to_navigate_in_complex_environments.md) (4)
-- [Universal Option Models](https://github.com/Caselles/paper_notes/blob/master/read_papers/universal_options_model.md) (?)
+- [Universal Option Models](https://github.com/Caselles/paper_notes/blob/master/read_papers/universal_options_model.md) (3)
+- [Options: Temporal abstraction in Reinforcement Learning](https://github.com/Caselles/paper_notes/blob/master/read_papers/options_precup.md) (4)
 
 
 ## Papers I want to read
