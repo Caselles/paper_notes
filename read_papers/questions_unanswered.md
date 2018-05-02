@@ -11,7 +11,7 @@ I need the answer to these questions. Don't hesitate to contact me if you can he
 - Lots of work that use TD-error methods to learn to solve mazes. Which approaches use a Monte-Carlo/Supervised Learning approach ? 
 - If you have features of your states or MDP, how to define a goal using these ? Which works explore this ?
 - Apart from planning, can you use model-base rollouts to find the best paths of transitions to maximize cumulative reward ? Like MCTS. 
-- Has anyone used DL in options RL ?
+- Has anyone used DL in options RL ? Yes (Precup, Option-Critic)
 - What is a forward model for options ? Yes (Precup)
 - Can't we use UVFA ideas to generalize not only over options but options and goals ? Yes (Precup), but it might have not been done already (!)
 - Are there Successor Representations for options ? Yes (Precup)
