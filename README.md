@@ -41,6 +41,7 @@ Contents:
 - [Options: Temporal abstraction in Reinforcement Learning](https://github.com/Caselles/paper_notes/blob/master/read_papers/options_precup.md) (4)
 - [A Laplacian Framework for Option Discovery in Reinforcement Learning](https://github.com/Caselles/paper_notes/blob/master/read_papers/a_laplacian_framework_for_option_discovery_in_reinforcement_learning.md) (3) 
 - [Hierarchical Deep Reinforcement Learning: Integrating Temporal Abstraction and Intrinsic Motivation](https://github.com/Caselles/paper_notes/blob/master/read_papers/hierarchical_deep_reinforcement_learning_integrating_temporal_abstraction_and_intrinsic_motivation.md) (2) 
+- [Temporal Difference Models: Model-Free Deep RL for Model-Based Control](https://github.com/Caselles/paper_notes/blob/master/read_papers/temporal_difference_models_model_free_deep_rl_for_model_based_control.md) (3)
 
 
 ## Papers I want to read
