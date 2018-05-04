@@ -44,6 +44,7 @@ Contents:
 - [Temporal Difference Models: Model-Free Deep RL for Model-Based Control](https://github.com/Caselles/paper_notes/blob/master/read_papers/temporal_difference_models_model_free_deep_rl_for_model_based_control.md) (3)
 - [The Predictron: End-To-End Learning and Planning](https://github.com/Caselles/paper_notes/blob/master/read_papers/the_predictron_end_to_end_learning_and_planning.md) (2)
 - [Action-Conditional Video Prediction using Deep Networks in Atari Games](https://github.com/Caselles/paper_notes/blob/master/read_papers/action_conditional_video_prediction_using_deep_networks_in_atari_games.md) (3)
+- [Decoupling Dynamics and Reward for Transfer Learning](https://github.com/Caselles/paper_notes/blob/master/read_papers/decoupling_dynamic_and_reward_for_transfer_learning.md) (3)
 
 
 ## Papers I want to read
