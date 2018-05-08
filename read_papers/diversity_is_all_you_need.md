@@ -5,6 +5,7 @@ Nice and thorough related work on learning skills.
 Key idea: maximize distinguishability, and diversity.
 
 Formulation of the objective, use of variational lower bound to be able to compute the objective.
+
 --------
 
 Final thoughts:
