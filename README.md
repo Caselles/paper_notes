@@ -46,6 +46,8 @@ Contents:
 - [Action-Conditional Video Prediction using Deep Networks in Atari Games](https://github.com/Caselles/paper_notes/blob/master/read_papers/action_conditional_video_prediction_using_deep_networks_in_atari_games.md) (3)
 - [Decoupling Dynamics and Reward for Transfer Learning](https://github.com/Caselles/paper_notes/blob/master/read_papers/decoupling_dynamic_and_reward_for_transfer_learning.md) (5)
 - [Diversity is All You Need: Learning Skills without a Reward Function](https://github.com/Caselles/paper_notes/blob/master/read_papers/diversity_is_all_you_need.md) (2)
+- [Generative Temporal Models with Spatial Memory for Partially Observed Environments](https://github.com/Caselles/paper_notes/blob/master/read_papers/generative_temporal_models_with_spatial_memory_for_partially_observed_environments.md) (?)
+- [Learning and Querying Fast Generative Models for Reinforcement Learning](https://github.com/Caselles/paper_notes/blob/master/read_papers/learning_and_querying_generative_models_for_rl.md) (2)
 
 ## Papers I want to read
 
@@ -57,6 +59,7 @@ Contents:
 - Theoretical TL papers from TL survey
 - DRL that matters
 - CMA-ES
+- Model-Based Value Expansion for Efficient Model-Free Reinforcement Learning
 
 # Questions for which I need the answer
 
