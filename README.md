@@ -45,7 +45,7 @@ Contents:
 - [The Predictron: End-To-End Learning and Planning](https://github.com/Caselles/paper_notes/blob/master/read_papers/the_predictron_end_to_end_learning_and_planning.md) (2)
 - [Action-Conditional Video Prediction using Deep Networks in Atari Games](https://github.com/Caselles/paper_notes/blob/master/read_papers/action_conditional_video_prediction_using_deep_networks_in_atari_games.md) (3)
 - [Decoupling Dynamics and Reward for Transfer Learning](https://github.com/Caselles/paper_notes/blob/master/read_papers/decoupling_dynamic_and_reward_for_transfer_learning.md) (5)
-- [Diversity is All You Need: Learning Skills without a Reward Function](https://github.com/Caselles/paper_notes/blob/master/read_papers/diversity_is_all_you_need.md) (?)
+- [Diversity is All You Need: Learning Skills without a Reward Function](https://github.com/Caselles/paper_notes/blob/master/read_papers/diversity_is_all_you_need.md) (2)
 
 ## Papers I want to read
 
