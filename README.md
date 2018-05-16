@@ -51,7 +51,7 @@ Contents:
 - [Model-Based Value Expansion for Efficient Model-Free Reinforcement Learning](https://github.com/Caselles/paper_notes/blob/master/read_papers/model_based_value_expansion_for_efficient_model_free_reinforcement_learning.md) (4)
 - [A Deep Hierarchical Approach to Lifelong Learning in Minecraft](https://github.com/Caselles/paper_notes/blob/master/read_papers/a_deep_hierarchical_approach_to_lifelong_learning_in_minecraft.md) (4)
 - [Deep Reinforcement Learning that Matters](https://github.com/Caselles/paper_notes/blob/master/read_papers/deep_reinforcement_learning_that_matters.md) (5)
-- [Continuous Deep Q-Learning with Model-based Acceleration]() (?) 
+- [Continuous Deep Q-Learning with Model-based Acceleration](https://github.com/Caselles/paper_notes/blob/master/read_papers/continous_deep_q_learning_with_model_based_acceleration.md) (?) 
 
 ## Papers I want to read
 
