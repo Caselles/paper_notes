@@ -50,6 +50,7 @@ Contents:
 - [Learning and Querying Fast Generative Models for Reinforcement Learning](https://github.com/Caselles/paper_notes/blob/master/read_papers/learning_and_querying_generative_models_for_rl.md) (2)
 - [Model-Based Value Expansion for Efficient Model-Free Reinforcement Learning](https://github.com/Caselles/paper_notes/blob/master/read_papers/model_based_value_expansion_for_efficient_model_free_reinforcement_learning.md) (4)
 - [A Deep Hierarchical Approach to Lifelong Learning in Minecraft](https://github.com/Caselles/paper_notes/blob/master/read_papers/a_deep_hierarchical_approach_to_lifelong_learning_in_minecraft.md) (4)
+- [Deep Reinforcement Learning that Matters](https://github.com/Caselles/paper_notes/blob/master/read_papers/deep_reinforcement_learning_that_matters.md) (5)
 
 ## Papers I want to read
 
@@ -59,7 +60,6 @@ Contents:
 - Transfer in Variable-Reward Hierarchical Reinforcement Learning
 - Curriculum Learning
 - Theoretical TL papers from TL survey
-- DRL that matters
 - CMA-ES
 
 # Questions for which I need the answer
