@@ -1,6 +1,6 @@
 Summary:
 
-Tackles lifelong learning, defines it by: . Lifelong Learning is the continued learning of tasks, from one or more domains, over the course of a lifetime, by a lifelong learning system. A lifelong learning system efficiently and effectively (1) retains the knowledge it has learned; (2) selectively transfers knowledge to learn new tasks; and (3) ensures the effective and efficient interaction between (1) and (2)(Silver, Yang, and Li 2013).
+Tackles lifelong learning, defines it by: Lifelong Learning is the continued learning of tasks, from one or more domains, over the course of a lifetime, by a lifelong learning system. A lifelong learning system efficiently and effectively (1) retains the knowledge it has learned; (2) selectively transfers knowledge to learn new tasks; and (3) ensures the effective and efficient interaction between (1) and (2)(Silver, Yang, and Li 2013).
 
 They propose an architecture for using pretrained options in a hierchical way. 
 
