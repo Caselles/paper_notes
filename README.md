@@ -49,6 +49,7 @@ Contents:
 - [Generative Temporal Models with Spatial Memory for Partially Observed Environments](https://github.com/Caselles/paper_notes/blob/master/read_papers/generative_temporal_models_with_spatial_memory_for_partially_observed_environments.md) (?)
 - [Learning and Querying Fast Generative Models for Reinforcement Learning](https://github.com/Caselles/paper_notes/blob/master/read_papers/learning_and_querying_generative_models_for_rl.md) (2)
 - [Model-Based Value Expansion for Efficient Model-Free Reinforcement Learning](https://github.com/Caselles/paper_notes/blob/master/read_papers/model_based_value_expansion_for_efficient_model_free_reinforcement_learning.md) (4)
+- [A Deep Hierarchical Approach to Lifelong Learning in Minecraft](https://github.com/Caselles/paper_notes/blob/master/read_papers/a_deep_hierarchical_approach_to_lifelong_learning_in_minecraft.md) (4)
 
 ## Papers I want to read
 
