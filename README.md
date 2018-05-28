@@ -53,6 +53,7 @@ Contents:
 - [Deep Reinforcement Learning that Matters](https://github.com/Caselles/paper_notes/blob/master/read_papers/deep_reinforcement_learning_that_matters.md) (5)
 - [Continuous Deep Q-Learning with Model-based Acceleration](https://github.com/Caselles/paper_notes/blob/master/read_papers/continous_deep_q_learning_with_model_based_acceleration.md) (3) 
 - [Overcoming catastrophic forgetting in neural networks](https://github.com/Caselles/paper_notes/blob/master/read_papers/overcoming_catastrophic_forgetting_in_neural_networks.md) (4) 
+- [Progressive Neural Networks](https://github.com/Caselles/paper_notes/blob/master/read_papers/progressive_neural_networks.md) (4)
 
 ## Papers I want to read
 
