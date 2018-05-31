@@ -55,6 +55,9 @@ Contents:
 - [Overcoming catastrophic forgetting in neural networks](https://github.com/Caselles/paper_notes/blob/master/read_papers/overcoming_catastrophic_forgetting_in_neural_networks.md) (4) 
 - [Progressive Neural Networks](https://github.com/Caselles/paper_notes/blob/master/read_papers/progressive_neural_networks.md) (4)
 - [Learning without Forgetting](https://github.com/Caselles/paper_notes/blob/master/read_papers/learning_without_forgetting.md) (3)
+- [Distilling the Knowledge in a Neural Network](https://github.com/Caselles/paper_notes/blob/master/read_papers/distilling_the_knowledge_in_a_neural_network.md) (3)
+- [Policy Distillation](https://github.com/Caselles/paper_notes/blob/master/read_papers/policy_distillation.md) (?)
+- [Progress & Compress: a scalable framework for continual learning](https://github.com/Caselles/paper_notes/blob/master/read_papers/progress_compress_a_scalable_framework_for_continual_learning.md) (?)
 
 ## Papers I want to read
 
