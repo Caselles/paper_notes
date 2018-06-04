@@ -41,5 +41,7 @@ Final thoughts:
 
 This article is a demonstration that distillation can be applied to RL, via policies. They show that it's possible to 1) compress policies on single games in smaller models, 2) build one agent that can play 10 games and 3) you can have a model that learn in a more stable way using the non-stable learning model.
 
+This is very useful for transfer. In P&C they show that you can distill and EWC to transfer without forgetting. This is very promising. 
+
 ----------
 
