@@ -58,7 +58,8 @@ Contents:
 - [Distilling the Knowledge in a Neural Network](https://github.com/Caselles/paper_notes/blob/master/read_papers/distilling_the_knowledge_in_a_neural_network.md) (3)
 - [Policy Distillation](https://github.com/Caselles/paper_notes/blob/master/read_papers/policy_distillation.md) (4)
 - [Progress & Compress: a scalable framework for continual learning](https://github.com/Caselles/paper_notes/blob/master/read_papers/progress_compress_a_scalable_framework_for_continual_learning.md) (4)
-- [Progressive Reinforcement Learning with Distillation for Multi-Skilled Motion Control](https://github.com/Caselles/paper_notes/blob/master/read_papers/progressive_reinforcement_learning_with_dwistillation_for_multi-skilled_motion_control.md) (3)
+- [Progressive Reinforcement Learning with Distillation for Multi-Skilled Motion Control](https://github.com/Caselles/paper_notes/blob/master/read_papers/progressive_reinforcement_learning_with_dwistillation_for_multi-skilled_motion_control.md) (?)
+- [Residual Loss Prediction: Reinforcement Learning With No Incremental Feedback](https://github.com/Caselles/paper_notes/blob/master/read_papers/residual%20loss_prediction_reinforcement_learning_with_no_incremental_feedback.md) (?)
 
 ## Papers I want to read
 
