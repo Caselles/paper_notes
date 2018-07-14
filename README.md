@@ -1,6 +1,8 @@
+# Summaries of Machine Lerning (mostly Reinforcement Learning) papers
+
 Inspired by [Adrian Colyer][1], [Denny Britz][2] and [Daniel Seita][3] 
 
-This contains my notes for research papers that are relevant for my PhD on Machine Learning for Robotics. First, I list papers that I've read and papers that I want to read. Then, read papers are numbered on a (1) to (5) scale where a (1) means I have only barely skimmed it, while a (5) means I feel
+This contains my notes for research papers that are relevant for my PhD on Machine Learning. First, I list papers that I've read and papers that I want to read. Then, read papers are numbered on a (1) to (5) scale where a (1) means I have only barely skimmed it, while a (5) means I feel
 confident that I understand almost everything about the paper. The links
 here go to my paper summaries if I have them, otherwise those papers are on my
 **TODO** list.
@@ -12,7 +14,7 @@ Contents:
     - [Papers I want to read](#papers-i-want-to-read)
 - [Questions for which I need the answer](#questions-for-which-i-need-the-answer)
 
-# Machine Learning for Robotics
+# Machine Learning papers
 
 ## Papers I've read
 
