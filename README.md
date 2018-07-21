@@ -1,4 +1,4 @@
-# Summaries of Machine Lerning (mostly Reinforcement Learning) papers
+# Summaries of Machine Learning (mostly Reinforcement Learning) papers
 
 Inspired by [Adrian Colyer][1], [Denny Britz][2] and [Daniel Seita][3] 
 
