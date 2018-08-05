@@ -14,7 +14,9 @@ With PPO, we simplify the problem by turning the KL divergence from a constraint
 
 Final thoughts : 
 
-Simple to use and tend to perform pretty good. The paper just describes a trick that works.
+Simple to use and tend to perform pretty good. The paper just describes a trick that works, which is: use TRPO loss, and clip it rather than use a hard constraint on the optimization problem.
+
+Note: Policy gradient method, that is usually used in an Actor-Critic style. 
 
 -------------
 
