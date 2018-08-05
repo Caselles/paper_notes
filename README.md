@@ -64,7 +64,7 @@ Contents:
 - [Residual Loss Prediction: Reinforcement Learning With No Incremental Feedback](https://github.com/Caselles/paper_notes/blob/master/read_papers/residual%20loss_prediction_reinforcement_learning_with_no_incremental_feedback.md) (3)
 - [Distral: Robust Multitask Reinforcement Learning](https://github.com/Caselles/paper_notes/blob/master/read_papers/distral_robust_multitask_reinforcement_learning.md) (?)
 - [Mixture Density Networks](https://github.com/Caselles/paper_notes/blob/master/read_papers/mixture_density_networks.md) (5)
-- []() (?)
+- [DARLA: Improving Zero-Shot Transfer in Reinforcement Learning](https://github.com/Caselles/paper_notes/blob/master/read_papers/darla_Improving_zero-shot_transfer_in_reinforcement_learning.md) (4)
 - []() (?)
 - []() (?)
 - []() (?)
