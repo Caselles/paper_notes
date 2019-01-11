@@ -92,8 +92,11 @@ Contents:
 - [HIRO: Data-Efficient Hierarchical Reinforcement Learning]() (?)
 - [Evolved Policy Gradients]() (?)
 - [Variational Memory Autoencoder]() (?)
-- []() (?)
-- []() (?)
+- [Isolating Sources of Disentanglement in VAEs]() (?)
+- [Emergence of Invariance and Disentanglement in Deep Representations]() (?)
+- [Adaptative Path-Integral Autoencoder: Representation Learning and Planning for Dynamical Systems]() (?)
+- [Discrete Variational Autoencoders]() (?)
+- [Towards a Definition of Disentangled Representations]() (?)
 ...
 
 ## Papers I want to read
