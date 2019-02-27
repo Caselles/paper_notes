@@ -96,7 +96,20 @@ Contents:
 - [Emergence of Invariance and Disentanglement in Deep Representations]() (?)
 - [Adaptative Path-Integral Autoencoder: Representation Learning and Planning for Dynamical Systems]() (?)
 - [Discrete Variational Autoencoders]() (?)
-- [Towards a Definition of Disentangled Representations]() (?)
+- [Towards a Definition of Disentangled Representations](5) (Reading group presentation)
+- [Challenging Common Assumptions in the Unsupervised Learning of Disentangled Representations]() (?)
+- [Disentangling by Factorising]() (?)
+- [Learning Latent Dynamics for Planning from Pixels]() (?)
+- []() (?)
+- []() (?)
+- []() (?)
+- []() (?)
+- []() (?)
+- []() (?)
+- []() (?)
+- []() (?)
+- []() (?)
+- []() (?)
 ...
 
 ## Papers I want to read
