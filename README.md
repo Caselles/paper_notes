@@ -101,14 +101,14 @@ Contents:
 - [Model Based Reinforcement Learning for Atari]() (?)
 - [How do Mixture Density RNNs Predict the Future?]() (?)
 
-### Special: [Notes and thoughts about VAEs and how to make them work!](). Based on the following papers:
+### Special: [Notes and thoughts about VAEs and how to make them work!]() Based on the following papers:
 
 - [β-VAE: Learning Basic Visual Concepts with a Constrained Variational Framework (β-VAE)]() (4)
 - [Understanding disentangling in β-VAE (CCI-VAE)]() (4)
 - [Disentangling by Factorising (FactorVAE)]() (4)
 - [Challenging Common Assumptions in the Unsupervised Learning of Disentangled Representations]() (4)
 - [Fixing a Broken ELBO (Fixed-rate objective function for VAEs)]() (4)
-- [Taming VAEs (GECCO VAEs)]() (?)
+- [Taming VAEs (GECCO VAEs)]() (3)
 
 ## Papers I want to read
 
