@@ -96,22 +96,21 @@ Contents:
 - [Emergence of Invariance and Disentanglement in Deep Representations]() (?)
 - [Adaptative Path-Integral Autoencoder: Representation Learning and Planning for Dynamical Systems]() (?)
 - [Discrete Variational Autoencoders]() (?)
-- [Towards a Definition of Disentangled Representations](5) (Reading group presentation)
-- [Challenging Common Assumptions in the Unsupervised Learning of Disentangled Representations]() (?)
-- [Disentangling by Factorising]() (4)
+- [Towards a Definition of Disentangled Representations]() (5, Reading group presentation)
 - [Learning Latent Dynamics for Planning from Pixels]() (?)
 - [Model Based Reinforcement Learning for Atari]() (?)
 - [How do Mixture Density RNNs Predict the Future?]() (?)
-- []() (?)
-- []() (?)
-- []() (?)
-- []() (?)
-- []() (?)
-- []() (?)
-- []() (?)
-- []() (?)
-- []() (?)
-...
+
+# About VAEs and how to make them work
+- [Notes and thoughts about following papers]()
+
+
+- [β-VAE: Learning Basic Visual Concepts with a Constrained Variational Framework (β-VAE)]() (4)
+- [Understanding disentangling in β-VAE (CCI-VAE)]() (4)
+- [Disentangling by Factorising (FactorVAE)]() (4)
+- [Challenging Common Assumptions in the Unsupervised Learning of Disentangled Representations]() (4)
+- [Fixing a Broken ELBO (Fixed-rate objective function for VAEs)]() (4)
+- [Taming VAEs (GECCO VAEs)]() (?)
 
 ## Papers I want to read
 
@@ -121,7 +120,6 @@ Contents:
 - Transfer in Variable-Reward Hierarchical Reinforcement Learning
 - Curriculum Learning
 - Theoretical TL papers from TL survey
-- CMA-ES
 
 # Questions for which I need the answer
 
