@@ -5,7 +5,7 @@ Inspired by [Adrian Colyer][1], [Denny Britz][2] and [Daniel Seita][3]
 This contains my notes for research papers that are relevant for my PhD on Machine Learning. First, I list papers that I've read and papers that I want to read. Then, read papers are numbered on a (1) to (5) scale where a (1) means I have only barely skimmed it, while a (5) means I feel
 confident that I understand almost everything about the paper. The links
 here go to my paper summaries if I have them, otherwise those papers are on my
-**TODO** list.
+**TODO** list. 
 
 Contents:
 
@@ -100,7 +100,7 @@ Contents:
 - [Model Based Reinforcement Learning for Atari]() (?)
 - [How do Mixture Density RNNs Predict the Future?]() (?)
 
-### Special: [Notes and thoughts about VAEs and how to make them work!]() Based on the following papers:
+### Special: [Notes and thoughts about VAEs and how to make them work!](https://github.com/Caselles/paper_notes/blob/master/read_papers/notes_and_thoughts_about_VAEs.md) Based on the following papers:
 
 - [β-VAE: Learning Basic Visual Concepts with a Constrained Variational Framework (β-VAE)]() (4)
 - [Understanding disentangling in β-VAE (CCI-VAE)]() (4)
