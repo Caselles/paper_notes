@@ -1,6 +1,8 @@
 ## Notes and thoughts:
 
-There is no formal definition. "Towards a Definition of Disentangled Representations" propose one. Otherwise, "β-VAE: Learning Basic Visual Concepts with a Constrained Variational Framework" propose β-VAE which puts less weight on the KL term of ELBO which encourages disentanglement, and also proposes a metric. 
+I started by trying to understand current progress in disentanglement in VAEs.
+
+There is no formal definition of disentanglement. "Towards a Definition of Disentangled Representations" propose one. Otherwise, "β-VAE: Learning Basic Visual Concepts with a Constrained Variational Framework" propose β-VAE which puts less weight on the KL term of ELBO which encourages disentanglement, and also proposes a metric. 
 However in practice it does not really work as the reconstruction is often very bad. "Disentangling by Factorising" propose a better disentanglement and better metrics. But it doesn't solve the problem of reconstruction.
 There are other similar approaches, such as β-TCVAE in "Isolating Sources of Disentanglement in VAEs", which suffer from the same issue but talks about disentanglement.
 
