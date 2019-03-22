@@ -101,9 +101,7 @@ Contents:
 - [Model Based Reinforcement Learning for Atari]() (?)
 - [How do Mixture Density RNNs Predict the Future?]() (?)
 
-# About VAEs and how to make them work
-- [Notes and thoughts about following papers]()
-
+### Special: [Notes and thoughts about VAEs and how to make them work!](). Based on the following papers:
 
 - [β-VAE: Learning Basic Visual Concepts with a Constrained Variational Framework (β-VAE)]() (4)
 - [Understanding disentangling in β-VAE (CCI-VAE)]() (4)
