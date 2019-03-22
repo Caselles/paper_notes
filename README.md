@@ -108,7 +108,7 @@ Contents:
 - [Isolating Sources of Disentanglement in VAEs (β-TCVAE]() (3)
 - [Challenging Common Assumptions in the Unsupervised Learning of Disentangled Representations]() (4)
 - [Fixing a Broken ELBO (Fixed-rate objective function for VAEs)]() (4)
-- [Taming VAEs (GECCO VAEs)]() (3)
+- [Taming VAEs (GECO VAEs)]() (3)
 
 ## Papers I want to read
 
