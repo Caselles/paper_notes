@@ -98,7 +98,8 @@ Contents:
 - [Towards a Definition of Disentangled Representations]() (5, Reading group presentation)
 - [Learning Latent Dynamics for Planning from Pixels]() (?)
 - [Model Based Reinforcement Learning for Atari]() (?)
-- [How do Mixture Density RNNs Predict the Future?]() (?)
+- [How do Mixture Density RNNs Predict the Future?]() (?
+- [CURIOUS: Intrinsically Motivated Multi-Task Multi-Goal Reinforcement Learning](https://github.com/Caselles/paper_notes/blob/master/read_papers/CURIOUS_intrinsically_motivated_multi_task_multi_goal_reinforcement_learning.md) (4)
 
 ### Special: [Notes and thoughts about VAEs and how to make them work!](https://github.com/Caselles/paper_notes/blob/master/read_papers/notes_and_thoughts_about_VAEs.md) Based on the following papers:
 
