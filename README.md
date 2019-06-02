@@ -100,6 +100,17 @@ Contents:
 - [Model Based Reinforcement Learning for Atari]() (?)
 - [How do Mixture Density RNNs Predict the Future?]() (?
 - [CURIOUS: Intrinsically Motivated Multi-Task Multi-Goal Reinforcement Learning](https://github.com/Caselles/paper_notes/blob/master/read_papers/CURIOUS_intrinsically_motivated_multi_task_multi_goal_reinforcement_learning.md) (4)
+- [Universal Successor Features Approximators]() (2)
+- [A new dog learns an old trick: RL learns classical algorithms]() (?)
+- [Near-Optimal Representation Learning for Hierarchical RL]() (?)
+- [Recurrent experience replay in Distributed RL]() (3)
+- []() (?)
+- []() (?)
+- []() (?)
+
+
+
+
 
 ### Special: [Notes and thoughts about VAEs and how to make them work!](https://github.com/Caselles/paper_notes/blob/master/read_papers/notes_and_thoughts_about_VAEs.md) Based on the following papers:
 
