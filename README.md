@@ -104,9 +104,15 @@ Contents:
 - [A new dog learns an old trick: RL learns classical algorithms]() (?)
 - [Near-Optimal Representation Learning for Hierarchical RL]() (?)
 - [Recurrent experience replay in Distributed RL]() (3)
+- [Large Memory Layers with Product Keys](4) (?)
+- [VQ-VAE: Neural Discrete Representation Learning](4) (?)
+- [StyleGAN: A Style-Based Generator Architecture for Generative Adversarial Networks](5) (?)
+- [BigGAN: Large Scale GAN Training for High Fidelity Natural Image Synthesis](5) (?)
 - []() (?)
 - []() (?)
 - []() (?)
+- []() (?)
+
 
 
 
